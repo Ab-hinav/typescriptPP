@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start:parcel": "npx parcel index.html",
+    "db": "sudo npx json-server db.json"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "json-server": "^1.0.0-alpha.11"
+  },
+  "dependencies": {
+    "axios": "^1.6.5"
+  }
+}
